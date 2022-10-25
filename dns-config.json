@@ -1,0 +1,46 @@
+{
+    "zone": "djbrooke.uk",
+    "api_key": "RnD8G27K91Yiu3m2hZ-Dqgbcra39Z_HtHqHQZOSV",
+
+    "records": [
+      {
+        "name": "@",
+        "ttl": "1",
+        "proxied": "true",
+        "type": "A"
+
+      },
+      {
+        "name": "nextcloud",
+        "ttl": "1",
+        "proxied": "true",
+        "type": "A"
+      },
+      {
+        "name": "netdata",
+        "ttl": "1",
+        "proxied": "true",
+        "type": "A"
+      },
+      {
+        "name": "pihole",
+        "ttl": "1",
+        "proxied": "true",
+        "type": "A"
+      },
+      {
+        "name": "plex",
+        "ttl": "1",
+        "proxied": "true",
+        "type": "A"
+      },
+      {
+        "name": "truenas",
+        "ttl": "1",
+        "proxied": "true",
+        "type": "A"
+      }
+
+    ]
+
+}
